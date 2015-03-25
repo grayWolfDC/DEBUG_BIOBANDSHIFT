@@ -1,0 +1,4 @@
+ofile=test531boV2.nc
+l2prod=Rrs_vc_531
+oformat=netCDF4
+band_shift_opt=1
